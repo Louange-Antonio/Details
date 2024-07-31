@@ -129,7 +129,7 @@ nav {
 .quote{
     display: flex;
     flex-direction: column;
-    background-image: url("../IMG/copy4.jpeg");
+    background-image: url("../IMG/0K8A4541.png");
     height: 80vh;
     background-size: cover;
     margin-bottom: 200px;
@@ -251,6 +251,7 @@ h4::before{
 .single-box p{
     font-weight: bold;
 }
+
 
 /* hobby */
 .hobbies-container{
